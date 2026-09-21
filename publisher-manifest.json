@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0d18c0459b41f3f041395336",
+  "owner": "ykgdschrtj",
+  "repo": "page-00cb5150336c49e7db6ce6e6",
+  "title": "LoxCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "00cb5150336c49e7db6ce6e6",
+      "a": "LoxCloud",
+      "b": "2027最新官网",
+      "entity": "LoxCloud",
+      "brand": "LoxCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e352211837fe25d84a246ae0801dbe441a03a4a7fd872b8c51c5935ccf653d4c",
+      "content": {
+        "primary_entity": "LoxCloud",
+        "keyword1": "LoxCloud",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、Android、iOS 和路由器上按客户端文档导入 LoxCloud 订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择 LoxCloud 套餐，下载匹配客户端完成订阅导入。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，覆盖 100GB 到 1000GB 月流量与 3 到 20 台设备同时在线，按年付更省。可在 Windows、macOS、Android、iOS 及路由器客户端导入订阅，旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个维度比较 LoxCloud 套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB 流量与 3 台设备，旗舰版月付 ¥35 含 300GB 与 5 台设备，团队版月付 ¥85 含 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑和路由器分别有对应客户端，按客户端文档导入订阅即可使用，同一账号在线设备数以套餐标注为准。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付方案分别为 ¥150、¥350、¥850，长期使用可降低月度支出，续费周期在订阅页查看。",
+          "AI_FEATURE_TITLE_1": "流量与设备对照",
+          "AI_FEATURE_TITLE_2": "客户端与设备适配",
+          "AI_FEATURE_TITLE_3": "月付与年付周期",
+          "AI_GUIDE_INTRO": "先确定流量和设备数量，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "LoxCloud 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。不同设备使用对应客户端导入订阅，旗舰版含 IPLC 专线游戏加速优化。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线可选",
+          "AI_HIGHLIGHT_3": "年付方案最低 ¥150 起",
+          "AI_PLANS_INTRO": "基础版适合少数设备轻度使用，旗舰版兼顾流量与 IPLC 专线游戏加速，团队版提供 1000GB 流量和 20 台设备在线，按年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求选择基础版、旗舰版或团队版，需要游戏加速可优先考虑旗舰版的 IPLC 专线。",
+          "AI_STEP_TEXT_2": "确认常用设备对应的客户端类型，核对套餐标注的同时在线设备数是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在所选客户端中按文档导入订阅配置，完成后即可在对应设备上使用。",
+          "AI_STEP_TITLE_1": "选择订阅套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "LoxCloud 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按在线设备数量与月流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "订阅信息通过客户端导入，手机端可选择支持订阅链接的客户端，电脑端使用对应桌面客户端，路由器端则按插件或系统文档配置。具体以各客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "旗舰版在基础节点池之外提供 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用；基础版使用普通线路节点池，满足日常浏览与流媒体。",
+          "AI_FAQ_ANSWER_4": "不是，基础版为普通线路节点池，旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由，不同套餐节点池范围不同。",
+          "AI_FAQ_ANSWER_5": "支持按月或按年计费。基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年，长期使用可选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅信息如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版的游戏加速适合什么场景？",
+          "AI_FAQ_QUESTION_4": "不同套餐的节点池是一样的吗？",
+          "AI_FAQ_QUESTION_5": "是否支持按月或按年付费？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bbjrk.cn",
+    "host": "bbjrk.cn"
+  },
+  "file_hashes": {
+    "index.html": "933124e25bf126fabc9b9fad37fcdc020b1e31b5b284bea85fb992780a6422af",
+    "sitemap.xml": "7edd3dac0a83ab8dce0889be2a6d55b811372729a177f59806e806215e060a6c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7209e266e754dabf6f5929b05d8a2551f76ab1c26cf427662bba1e695131e7b6",
+    "robots.txt": "158fd60db460258bfda18a81dda3a30f6c9ed4fa2cae61d8a5aee315a2938226",
+    "866cfa100a3109a2d9e66e3cebdcab8a.txt": "e2943078d1aa5bbf51a7d84d0c4ce7023c457a1d85d5e572a7dd66ae74d1fcb7"
+  },
+  "revision": "d2b4bd28f885ced8434283dcb5c354fc8e26463bfca726a502bd1e79071edac7"
+}
